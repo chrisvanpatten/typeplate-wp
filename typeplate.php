@@ -41,4 +41,3 @@ function typeplate_css() {
  *
  */
 add_action('wp_enqueue_scripts', 'typeplate_css');
-?>
